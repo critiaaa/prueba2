@@ -49,4 +49,5 @@ public class NominaDirectivo implements INomina {
 		return cadena;
 	}
 
+	//prueba
 }
